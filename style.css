@@ -1,0 +1,28 @@
+
+
+.header{
+background-color : rgb(206, 22, 252);
+display : flex;
+    justify-content:space-evenly;
+}
+
+
+h2 {
+    color:aqua
+}
+
+.grid{
+    background-color:pink;
+    display : flex;
+    justify-content: space-evenly;
+
+}
+
+.footer{
+    background-color:fuchsia;
+    display : flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+}
